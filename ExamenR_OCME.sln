@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR-OCME.Android", "ExamenR-OCME\ExamenR-OCME.Android\ExamenR-OCME.Android.csproj", "{707BF7D5-C51F-41C5-97A7-959D16711A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR-OCME.iOS", "ExamenR-OCME\ExamenR-OCME.iOS\ExamenR-OCME.iOS.csproj", "{D3C9FDED-4CD8-4BB8-98FE-E89702704500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OCME", "ExamenR-OCME\ExamenR-OCME\ExamenR_OCME.csproj", "{B81A50C0-1610-411D-8B3B-41ABE46DF12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707BF7D5-C51F-41C5-97A7-959D16711A3D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Debug|Any CPU.Deploy.0 = Debug|iPhone
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{D3C9FDED-4CD8-4BB8-98FE-E89702704500}.Release|Any CPU.Deploy.0 = Release|iPhoneSimulator
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81A50C0-1610-411D-8B3B-41ABE46DF12E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
