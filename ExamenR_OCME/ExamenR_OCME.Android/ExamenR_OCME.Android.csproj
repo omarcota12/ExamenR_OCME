@@ -88,7 +88,7 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExamenR-OCME\ExamenR_OCME.csproj">
+    <ProjectReference Include="..\ExamenR_OCME\ExamenR_OCME.csproj">
       <Project>{B81A50C0-1610-411D-8B3B-41ABE46DF12E}</Project>
       <Name>ExamenR_OCME</Name>
     </ProjectReference>

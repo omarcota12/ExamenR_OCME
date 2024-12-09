@@ -9,7 +9,6 @@ namespace ExamenR_OCME
         public App()
         {
             InitializeComponent();
-
             MainPage = new MainPage();
         }
 

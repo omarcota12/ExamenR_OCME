@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR-OCME.Android", "ExamenR-OCME\ExamenR-OCME.Android\ExamenR-OCME.Android.csproj", "{707BF7D5-C51F-41C5-97A7-959D16711A3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OCME.Android", "ExamenR_OCME\ExamenR_OCME.Android\ExamenR_OCME.Android.csproj", "{707BF7D5-C51F-41C5-97A7-959D16711A3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR-OCME.iOS", "ExamenR-OCME\ExamenR-OCME.iOS\ExamenR-OCME.iOS.csproj", "{D3C9FDED-4CD8-4BB8-98FE-E89702704500}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OCME.iOS", "ExamenR_OCME\ExamenR_OCME.iOS\ExamenR_OCME.iOS.csproj", "{D3C9FDED-4CD8-4BB8-98FE-E89702704500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OCME", "ExamenR-OCME\ExamenR-OCME\ExamenR_OCME.csproj", "{B81A50C0-1610-411D-8B3B-41ABE46DF12E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamenR_OCME", "ExamenR_OCME\ExamenR_OCME\ExamenR_OCME.csproj", "{B81A50C0-1610-411D-8B3B-41ABE46DF12E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
